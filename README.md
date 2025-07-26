@@ -1,4 +1,4 @@
-# DyInfTileDOTA
+# DyTileTrainDOTA
 
 **Dynamic Tile Training for DOTA Object Detection**
 
